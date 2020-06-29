@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-enable-cleartext-traffic",
-  "version": "1.3.0",
+  "version": "2.1.0",
   "description": "Cordova Plugin Enable cleartextTraffic ",
   "cordova": {
     "id": "cordova-plugin-enable-cleartext-traffic",
